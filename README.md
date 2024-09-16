@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Cole and I'm a SDE degree apprentice with [QMUL](https://www.qmul.ac.uk/) and Amazon.
+My name is Cole and I'm an SDE degree apprentice with [QMUL](https://www.qmul.ac.uk/) and Amazon.
 
 
 Some of the projects I've worked on:
